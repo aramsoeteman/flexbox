@@ -9,7 +9,7 @@
     flex-wrap: wrap;
     padding: 10px;
 
-    margin: 20px 30px 0px 30px;
+    margin: 20px 60px 0px 60px;
 }
 
 .title {
@@ -37,12 +37,7 @@ img {
     flex-grow: 1;
     flex-shrink: 1;
     text-decoration: none;
-
     border: none;
-    /*
-    border-style: solid;
-    border-width: 1px;
-    */
     background: none;
 }
 
@@ -56,11 +51,6 @@ img {
     flex-direction: column;
     justify-content: space-evenly;
     flex-grow: 1;
-
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
-    
 }
 
 .result {
